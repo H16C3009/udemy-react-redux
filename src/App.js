@@ -3,9 +3,9 @@
 function App() {
   return (
     <div>
-      <p>
+      <h1>
         Hello World !
-      </p>
+      </h1>
     </div>
   );
 }
